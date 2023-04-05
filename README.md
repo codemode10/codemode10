@@ -6,6 +6,6 @@ Hi there I'm Lloyd 👋
 
 - 🌱 I’m currently learning React and JavaScript
 - 📫 How to reach me: lloydmellor@gmail.com
-- ⚡ Fun fact: I am loveee to bbquing in the sun 🍖
+- ⚡ Fun fact: I loveee bbquing in the sun 🍖
 
 -->
